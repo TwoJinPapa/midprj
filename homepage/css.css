@@ -1,0 +1,64 @@
+* {
+    margin: 0px;
+}
+#header{ 
+    
+    padding-top: 40px;
+    height: 100px;
+    background-color: aqua;
+}
+
+#header h1 {
+    text-align: center;
+}
+
+#login {
+    float: right;
+    
+    padding: 10px;
+}
+
+#login a {
+    text-decoration: none;
+    color: black;
+}
+
+#login a:hover {
+    text-decoration: underline;
+}
+
+#topmenu {
+    background-color: bisque;
+    height: 40px;
+}
+
+#topmenu ol {
+    padding-left: 10px;
+}
+
+#topmenu li{
+    text-align: left;
+    padding: 10px;
+    padding-left: 0px;
+    height: 10px;
+    list-style:none;
+    float: left;
+}
+
+#topmenu li a {
+    text-decoration-line: none;
+    color: black;
+}
+
+#mainmenu {
+    padding: 30px;
+    height: 400px;
+}
+
+#footer {
+    background-color: black;
+    color: aliceblue;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+}
